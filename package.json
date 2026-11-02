@@ -1,0 +1,14 @@
+{
+  "name": "zombie-arena-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free 4-player room/PvP starter layer for Zombie Arena FPS v13",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
